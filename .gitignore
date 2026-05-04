@@ -1,0 +1,13 @@
+# Editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Obsidian vault
+.obsidian/
